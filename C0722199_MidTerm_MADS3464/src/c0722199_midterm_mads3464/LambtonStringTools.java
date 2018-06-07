@@ -9,14 +9,22 @@ package c0722199_midterm_mads3464;
  *
  * @author macstudent
  */
-public class C0722199_MidTerm_MADS3464 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        LambtonStringTools l1=new LambtonStringTools();
-        l1.display();
-    }
-    
+public class LambtonStringTools
+{
+  public void reverse()
+  {
+     String s = "Lambton";
+ 
+        StringBuilder b = new StringBuilder();
+        b.append(s);
+        b = b.reverse();
+        System.out.println(b);
+  }          
 }
+
+    
+
+    
+
+
+
