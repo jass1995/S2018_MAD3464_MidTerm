@@ -11,11 +11,10 @@ package c0722199_midterm_mads3464;
  */
 public class LambtonStringTools
 {
-  public void reverse()
+  public void reverse(String s)
   {
-     String s = "Lambton";
- 
-        StringBuilder b = new StringBuilder();
+      
+       StringBuilder b = new StringBuilder();
         b.append(s);
         b = b.reverse();
         System.out.println(b);
