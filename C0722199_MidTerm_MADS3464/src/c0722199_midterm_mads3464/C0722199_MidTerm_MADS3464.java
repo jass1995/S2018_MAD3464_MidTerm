@@ -20,6 +20,8 @@ public class C0722199_MidTerm_MADS3464 {
         
         Initials n1=new Initials();
         n1.initials("Jaswinder Kaur Saini");
+        BtoD b1=new BtoD();
+        b1.BinaryToDecimal("1011");
         
         
     }

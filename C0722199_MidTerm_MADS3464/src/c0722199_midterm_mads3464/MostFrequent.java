@@ -9,15 +9,16 @@ package c0722199_midterm_mads3464;
  *
  * @author macstudent
  */
-public class BtoD {
+public class MostFrequent {
     
-   public void BinaryToDecimal(String b)
-   {
+    String s="jass";
+    public void mostFrequent()
+    {
+        
     
-     int decimal=Integer.parseInt(b,2);  
-     System.out.println(decimal);  
-   
-   }
     
+    
+    
+    }
     
 }
