@@ -17,6 +17,11 @@ public class C0722199_MidTerm_MADS3464 {
     public static void main(String[] args) {
         LambtonStringTools l1=new LambtonStringTools();
         l1.reverse("Lambton");
+        
+        Initials n1=new Initials();
+        n1.initials("Jaswinder Kaur Saini");
+        
+        
     }
     
 }

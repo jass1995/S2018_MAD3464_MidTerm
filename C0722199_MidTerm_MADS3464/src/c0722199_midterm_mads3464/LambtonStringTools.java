@@ -13,8 +13,7 @@ public class LambtonStringTools
 {
   public void reverse(String s)
   {
-      
-       StringBuilder b = new StringBuilder();
+        StringBuilder b = new StringBuilder();
         b.append(s);
         b = b.reverse();
         System.out.println(b);

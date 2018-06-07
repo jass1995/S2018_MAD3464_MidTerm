@@ -13,7 +13,7 @@ public class BtoD {
     
    public void BinaryToDecimal()
    {
-   
+    
    
    }
     
